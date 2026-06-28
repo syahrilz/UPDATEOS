@@ -4,3 +4,4 @@ OS.V1.2.bin
 OS.V1.3.bin
 OS.V1.4.bin
 OS.V1.5.bin
+OS.V1.6.bin
